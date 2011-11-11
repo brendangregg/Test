@@ -2,6 +2,8 @@
 /*
  * jsgc.d	JavaScript Garbage Collect trace.
  *
+ * $Id: jsgc.d 3 2011-11-11 01:30:08Z brendan $
+ *
  * Brendan Gregg - testing github.
  */
 
